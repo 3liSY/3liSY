@@ -1,16 +1,39 @@
-## Hi there 👋
+Ali
 
-<!--
-**3liSY/3liSY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer · Digital Creator · Entrepreneur
 
-Here are some ideas to get you started:
+I build software, explore new technologies, and turn ideas into practical digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in the intersection of technology, business, and creativity — from software development and automation to tools that solve real-world problems.
+
+---
+
+Focus
+
+- Development: Python, Java, software engineering
+- Technology: Automation, developer tools, digital products
+- Interests: Entrepreneurship, product development, AI
+
+Selected Experience
+
+Digital Content & Business
+
+- Built and managed a YouTube channel with 700K+ subscribers.
+- Reached 250M+ views through content creation and audience development.
+- Worked across production, analytics, monetization, partnerships, and community management.
+
+Currently
+
+- Strengthening my software engineering foundations.
+- Building and improving practical software projects.
+- Exploring ideas for useful digital products.
+
+---
+
+Connect
+
+"YouTube" (https://www.youtube.com/@SRBGamerr) · "GitHub" (https://github.com/3liSY)
+
+---
+
+<sub>Learning, building, and improving — one project at a time.</sub>
