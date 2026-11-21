@@ -1,53 +1,93 @@
-<h1 align="center">ALI</h1><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+%26+Technology;Digital+Creator+%26+Entrepreneur;Building+ideas+into+real+projects" alt="Animated introduction" />
+Ali
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=1800&pause=900&color=E05A67&center=true&vCenter=true&width=420&height=65&lines=Ali;3liSY" alt="Ali and 3liSY animated name" />
 </p><p align="center">
-  <a href="https://github.com/3liSY">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
-  </a>
-  <a href="https://www.youtube.com/@SRBGamerr?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube" />
-  </a>
+  <a href="#coding">Beginner Coder</a>
+  &nbsp;·&nbsp;
+  <a href="#content-creation">Content Creator</a>
+  &nbsp;·&nbsp;
+  <a href="#community">Community Explorer</a>
 </p><p align="center">
-  <img src="https://img.shields.io/badge/700K%2B-Subscribers-red?style=flat-square&logo=youtube" />
-  <img src="https://img.shields.io/badge/250M%2B-Views-181717?style=flat-square" />
-  <img src="https://img.shields.io/badge/Google_Maps-Local_Guide_Level_6-34A853?style=flat-square&logo=googlemaps&logoColor=white" />
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#coding">Coding</a> &nbsp;·&nbsp;
+  <a href="#projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#content-creation">Creator</a> &nbsp;·&nbsp;
+  <a href="#community">Community</a> &nbsp;·&nbsp;
+  <a href="#contact">Contacts</a>
 </p>---
 
 About
 
-I build software, explore technology, and work on digital projects that combine creativity, technical development, and business.
+Beginner coder, content creator, and community explorer interested in technology, digital projects, and learning by building.
 
-Tech & Tools
+Coding
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" alt="Technology icons" />
-</p>Interests: Software engineering · Automation · AI · Product development
+Currently learning Python at a beginner level and improving through practice and projects.
 
-Featured Project
+Tools I use: Claude Code · GitHub
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python beginner" />
+  <img src="https://img.shields.io/badge/Claude_Code-Using-CC785C?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-Tools-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
+</p>Projects
 
 "Steve Subscribe Animation" (https://github.com/3liSY/Steve_Subscribe_Animation)
 
-An Arabic Minecraft animation project built with Python, Blender, and FFmpeg.
+An Arabic Minecraft subscribe animation featuring Steve mining a subscribe block.
 
-Beyond Code
+<sub>Completed · Public</sub>
 
-Digital Creation
+StormyGang Discord Bot
 
-- Built and managed a YouTube channel with 700K+ subscribers and 250M+ views.
-- Experience in production, analytics, monetization, sponsorships, and community management.
+A custom Discord bot for the StormyGang community.
 
-Community Contributions
+<sub>In progress · Release plans undecided</sub>
 
-- Google Maps Local Guide — Level 6
-- Reviews, photos, place edits, and missing-location contributions.
-- Helping improve local map information and coverage in Damascus.
+Exploring
 
----
+Interested in building software, apps, websites, Minecraft projects, community tools, and AI experiments.
+
+Content Creation
 
 <p align="center">
-  <a href="https://github.com/3liSY">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.youtube.com/@SRBGamerr">YouTube</a>
+  <img src="https://img.shields.io/badge/700K%2B-Subscribers-E05A67?style=for-the-badge&logo=youtube&logoColor=white" alt="700K plus subscribers" />
+  <img src="https://img.shields.io/badge/250M%2B-Views-8B2635?style=for-the-badge" alt="250M plus views" />
+</p>Building and managing SRBGamerr, with experience in creating, editing, publishing, and growing online content.
+
+"Visit my YouTube channel" (https://www.youtube.com/@SRBGamerr)
+
+Community
+
+Google Maps Local Guide · Level 6+
+
+Contributing reviews, photos, and place edits to help improve local map information.
+
+GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3liSY&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E05A67&icon_color=E05A67&text_color=C9D1D9" alt="Ali's GitHub statistics" />
 </p><p align="center">
-  <sub>Build · Create · Contribute · Improve</sub>
+  <img src="https://raw.githubusercontent.com/3liSY/3liSY/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>Contacts
+
+<p align="center">
+  <a href="https://github.com/3liSY">
+    <img src="https://img.shields.io/badge/GitHub-3liSY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/@SRBGamerr">
+    <img src="https://img.shields.io/badge/YouTube-SRBGamerr-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://discord.gg/stormygang">
+    <img src="https://img.shields.io/badge/Discord-StormyGang-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://instagram.com/srbgamerr">
+    <img src="https://img.shields.io/badge/Instagram-SRBGamerr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://rootapp.gg/ADKfuKm8iAqsHygl-sn8Pg">
+    <img src="https://img.shields.io/badge/RootApp-Visit-8B2635?style=for-the-badge" alt="RootApp" />
+  </a>
+</p><p align="center">
+  <sub>Learning · Creating · Exploring</sub>
 </p>
