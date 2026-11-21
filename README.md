@@ -1,93 +1,53 @@
-Ali
-
-Software · Technology · Entrepreneurship
-
-Building software, exploring technology, and turning ideas into practical digital products.
-
-I’m interested in the intersection of software engineering, product development, and business — combining technical skills with experience building and managing digital projects.
-
-<p align="left">
+<h1 align="center">ALI</h1><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+%26+Technology;Digital+Creator+%26+Entrepreneur;Building+ideas+into+real+projects" alt="Animated introduction" />
+</p><p align="center">
   <a href="https://github.com/3liSY">
-    <img src="https://img.shields.io/badge/GitHub-3liSY-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
   </a>
-  <a href="https://www.youtube.com/@SRBGamerr">
-    <img src="https://img.shields.io/badge/YouTube-SRB_Gamer-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+  <a href="https://www.youtube.com/@SRBGamerr?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube" />
   </a>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/700K%2B-Subscribers-red?style=flat-square&logo=youtube" />
+  <img src="https://img.shields.io/badge/250M%2B-Views-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google_Maps-Local_Guide_Level_6-34A853?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>---
 
-01 / TECHNOLOGY
+About
 
-My current technical focus is building a strong foundation in software development and learning how to turn ideas into working products.
+I build software, explore technology, and work on digital projects that combine creativity, technical development, and business.
 
-Area| Focus
-Programming| Python, Java
-Software| Application development, programming fundamentals
-Tools & Automation| Developer tools, automation, practical workflows
-Product Development| Building, testing and improving digital products
+Tech & Tools
 
-Interests
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" alt="Technology icons" />
+</p>Interests: Software engineering · Automation · AI · Product development
 
-- Software engineering and application development
-- Automation and creator-focused tools
-- AI and emerging technologies
-- Digital products and entrepreneurship
-
----
-
-02 / SELECTED PROJECT
+Featured Project
 
 "Steve Subscribe Animation" (https://github.com/3liSY/Steve_Subscribe_Animation)
 
-An Arabic Minecraft subscribe animation project.
+An Arabic Minecraft animation project built with Python, Blender, and FFmpeg.
 
-- Python
-- Blender
-- FFmpeg
+Beyond Code
 
-A creative project combining programming, animation and video production.
+Digital Creation
 
----
+- Built and managed a YouTube channel with 700K+ subscribers and 250M+ views.
+- Experience in production, analytics, monetization, sponsorships, and community management.
 
-03 / BEYOND TECHNOLOGY
+Community Contributions
 
-Digital Creation & Business
-
-I also have experience building and managing digital content projects, developing audiences and handling the operational side of a creator business.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/YouTube-700K%2B_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="700K+ subscribers">
-  <img src="https://img.shields.io/badge/Views-250M%2B-181717?style=flat-square" alt="250M+ views">
-</p>Experience includes:
-
-- Content strategy, planning and production
-- Video editing and publishing
-- Audience development and analytics
-- Monetization and revenue management
-- Sponsorships and business communication
-- Community management and coordination
-
-This experience has taught me to think beyond the technical side of a project: understanding audiences, delivering value and managing something over time.
+- Google Maps Local Guide — Level 6
+- Reviews, photos, place edits, and missing-location contributions.
+- Helping improve local map information and coverage in Damascus.
 
 ---
 
-04 / CURRENT DIRECTION
-
-- Strengthening my software engineering foundations.
-- Improving my Python and Java development skills.
-- Building and documenting practical software projects.
-- Exploring product ideas that solve real problems.
-- Combining technical development with business thinking.
-
----
-
-05 / CONNECT
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/3liSY">GitHub</a>
   &nbsp; · &nbsp;
   <a href="https://www.youtube.com/@SRBGamerr">YouTube</a>
-</p>---
-
-<p align="center">
-  <sub>Learn continuously. Build thoughtfully. Improve through execution.</sub>
+</p><p align="center">
+  <sub>Build · Create · Contribute · Improve</sub>
 </p>
