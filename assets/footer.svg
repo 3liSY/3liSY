@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 52" width="640" height="52" role="img"><title>Learning, Creating, Exploring</title><desc>Footer: Learning · Creating · Exploring</desc><defs><style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.bg{fill:#080B10}.pn{fill:#0C1118}.tx{fill:#E6EDF3}.dm{fill:#AEB7C0}
+@media (prefers-color-scheme:light){.bg{fill:#F3F5F7}.pn{fill:#FFFFFF}.tx{fill:#12171C}.dm{fill:#46515C}}
+.blink{animation:blink 2.4s ease-in-out infinite}@keyframes blink{50%{opacity:.35}}
+.pulse{animation:blink 2.4s ease-in-out infinite}
+.fl{stroke-dasharray:4 10;animation:fl 1.2s linear infinite}@keyframes fl{to{stroke-dashoffset:-14}}
+@media (max-width:500px){.deco{display:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs><rect x="44" width="596" height="52" class="bg"/><rect x="44.5" y=".5" width="595" height="51" fill="none" stroke="#FF0000" stroke-opacity=".3"/><path d="M45,15 L45,1 L59,1 M639,15 L639,1 L625,1 M45,37 L45,51 L59,51 M639,37 L639,51 L625,51" fill="none" stroke="#FF0000" stroke-width="2"/><line x1="22" y1="0" x2="22" y2="26" stroke="#FF0000" stroke-opacity=".35" stroke-width="2"/><rect x="17" y="21" width="10" height="10" fill="#FF0000"/><text x="342.0" y="32" font-size="20" class="dm" letter-spacing="2" text-anchor="middle">LEARNING · CREATING · EXPLORING</text></svg>

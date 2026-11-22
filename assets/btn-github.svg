@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" width="120" height="60" role="img"><title>GITHUB 3liSY</title><desc>Link button: GITHUB 3liSY</desc><defs><style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.bg{fill:#080B10}.pn{fill:#0C1118}.tx{fill:#E6EDF3}.dm{fill:#AEB7C0}
+@media (prefers-color-scheme:light){.bg{fill:#F3F5F7}.pn{fill:#FFFFFF}.tx{fill:#12171C}.dm{fill:#46515C}}
+.blink{animation:blink 2.4s ease-in-out infinite}@keyframes blink{50%{opacity:.35}}
+.pulse{animation:blink 2.4s ease-in-out infinite}
+.fl{stroke-dasharray:4 10;animation:fl 1.2s linear infinite}@keyframes fl{to{stroke-dashoffset:-14}}
+@media (max-width:500px){.deco{display:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs><rect width="120" height="60" class="pn"/><rect x=".5" y=".5" width="119" height="59" fill="none" stroke="#FF0000" stroke-opacity=".4"/><path d="M1,11 L1,1 L11,1 M119,11 L119,1 L109,1 M1,49 L1,59 L11,59 M119,49 L119,59 L109,59" fill="none" stroke="#FF0000" stroke-width="2"/><text x="14" y="25" font-size="13" class="dm" letter-spacing="1">GITHUB</text><text x="14" y="48" font-size="16" font-weight="700" class="tx">3liSY</text><text x="94" y="25" font-size="15" fill="#FF0000">&#8599;</text></svg>
