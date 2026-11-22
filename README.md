@@ -1,16 +1,15 @@
 <div align="center">
 
 <p align="center">
-<img src="assets/hero.svg" width="640" alt="Ali, 3liSY. Coder, creator, explorer. 700K+ subscribers, 250M+ views, Google Maps Local Guide level 6." /><br>
-<a name="about"></a><a name="coding"></a><img src="assets/profile.svg" width="640" alt="About: beginner coder, content creator, and community explorer interested in technology, digital projects, and learning by building. Coding: currently learning Python at a beginner level. Tools: Claude Code, Git, GitHub." /><br>
-<a name="projects"></a><a href="https://github.com/3liSY/Steve_Subscribe_Animation"><img src="assets/project-steve.svg" width="640" alt="Project: Steve Subscribe Animation. Completed, public. Opens the repository." /></a><br>
-<img src="assets/project-bot.svg" width="640" alt="Project: StormyGang Discord Bot. In progress, release plans undecided." /><br>
-<a name="creator"></a><a href="https://www.youtube.com/@SRBGamerr"><img src="assets/creator.svg" width="640" alt="Creator: SRBGamerr. Opens the YouTube channel." /></a><br>
-<a name="community"></a><img src="assets/world.svg" width="640" alt="Exploring: building software, apps, websites, Minecraft projects, community tools, and AI experiments. Community: Google Maps Local Guide, level 6." />
+<picture><source media="(max-width: 600px)" srcset="assets/m/hero.svg"><img src="assets/hero.svg" alt="Ali, 3liSY. Coder, creator, explorer. 700K+ subscribers, 250M+ views, Google Maps level 6." /></picture><br>
+<a name="about"></a><a name="coding"></a><picture><source media="(max-width: 600px)" srcset="assets/m/profile.svg"><img src="assets/profile.svg" alt="About: beginner coder, content creator, and community explorer interested in technology, digital projects, and learning by building. Coding: currently learning Python at a beginner level. Tools: Claude Code, Git, GitHub." /></picture><br>
+<a name="projects"></a><a href="https://github.com/3liSY/Steve_Subscribe_Animation"><picture><source media="(max-width: 600px)" srcset="assets/m/project-steve.svg"><img src="assets/project-steve.svg" alt="Project: Steve Subscribe Animation. An Arabic Minecraft subscribe animation featuring Steve mining a subscribe block. Completed, public. Opens the repository." /></picture></a><br>
+<picture><source media="(max-width: 600px)" srcset="assets/m/project-bot.svg"><img src="assets/project-bot.svg" alt="Project: StormyGang Discord Bot. A custom Discord bot for the StormyGang community. In progress, release plans undecided." /></picture><br>
+<a name="creator"></a><a href="https://www.youtube.com/@SRBGamerr"><picture><source media="(max-width: 600px)" srcset="assets/m/creator.svg"><img src="assets/creator.svg" alt="Creator: SRBGamerr. Building and managing SRBGamerr. Opens the YouTube channel." /></picture></a><br>
+<a name="community"></a><picture><source media="(max-width: 600px)" srcset="assets/m/world.svg"><img src="assets/world.svg" alt="Exploring: building software, apps, websites, Minecraft projects, community tools, and AI experiments. Community: Google Maps Local Guide, level 6." /></picture><br>
+<a name="contact"></a><picture><source media="(max-width: 600px)" srcset="assets/m/contact.svg"><img src="assets/contact.svg" alt="Contact links" /></picture><br>
+<a href="https://github.com/3liSY"><picture><source media="(max-width: 600px)" srcset="assets/m/btn-github.svg"><img src="assets/btn-github.svg" alt="GitHub 3liSY" /></picture></a><a href="https://www.youtube.com/@SRBGamerr"><picture><source media="(max-width: 600px)" srcset="assets/m/btn-youtube.svg"><img src="assets/btn-youtube.svg" alt="YouTube SRBGamerr" /></picture></a><a href="https://discord.gg/stormygang"><picture><source media="(max-width: 600px)" srcset="assets/m/btn-discord.svg"><img src="assets/btn-discord.svg" alt="Discord StormyGang" /></picture></a><a href="https://instagram.com/srbgamerr"><picture><source media="(max-width: 600px)" srcset="assets/m/btn-instagram.svg"><img src="assets/btn-instagram.svg" alt="Instagram SRBGamerr" /></picture></a><a href="https://rootapp.gg/ADKfuKm8iAqsHygl-sn8Pg"><picture><source media="(max-width: 600px)" srcset="assets/m/btn-rootapp.svg"><img src="assets/btn-rootapp.svg" alt="RootApp" /></picture></a><br>
+<picture><source media="(max-width: 600px)" srcset="assets/m/footer.svg"><img src="assets/footer.svg" alt="Learning · Creating · Exploring" /></picture>
 </p>
-
-<p align="center"><a name="contact"></a><a href="https://github.com/3liSY"><img src="assets/btn-github.svg" width="120" alt="GitHub 3liSY" /></a> <a href="https://www.youtube.com/@SRBGamerr"><img src="assets/btn-youtube.svg" width="120" alt="YouTube SRBGamerr" /></a> <a href="https://discord.gg/stormygang"><img src="assets/btn-discord.svg" width="120" alt="Discord StormyGang" /></a> <a href="https://instagram.com/srbgamerr"><img src="assets/btn-instagram.svg" width="120" alt="Instagram SRBGamerr" /></a> <a href="https://rootapp.gg/ADKfuKm8iAqsHygl-sn8Pg"><img src="assets/btn-rootapp.svg" width="120" alt="RootApp" /></a></p>
-
-<p align="center"><img src="assets/footer.svg" width="640" alt="Learning · Creating · Exploring" /></p>
 
 </div>

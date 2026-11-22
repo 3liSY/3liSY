@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 40" width="360" height="40" role="img"><title>Learning, Creating, Exploring</title><desc>Footer: Learning · Creating · Exploring</desc><defs><style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.sn{font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+.bg{fill:#080B10}.pn{fill:#0C1118}.tx{fill:#E6EDF3}.dm{fill:#AEB7C0}.scr{fill:#05080C}.mt{fill:#D8DEE4}.ink{fill:#05070A}.wh{fill:#FFFFFF}
+.bd{stroke:#FF0000;stroke-opacity:.34}.gr{stroke:#FF0000;stroke-opacity:.08}
+@media (prefers-color-scheme:light){.bg{fill:#F3F5F7}.pn{fill:#FFFFFF}.tx{fill:#12171C}.dm{fill:#46515C}.scr{fill:#F1F3F5}.mt{fill:#6B7580}.bd{stroke-opacity:.55}.gr{stroke-opacity:.05}text[fill="#FF0000"]{fill:#C80000}}
+.blink{animation:blink 2.4s ease-in-out infinite}@keyframes blink{50%{opacity:.3}}
+.fl{stroke-dasharray:4 10;animation:fl 1.2s linear infinite}@keyframes fl{to{stroke-dashoffset:-14}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs><rect x="22" y="5" width="338" height="35" class="pn"/><rect x="22.5" y="5.5" width="337" height="34" fill="none" class="bd"/><path d="M23,16 L23,6 L33,6 M359,16 L359,6 L349,6 M23,29 L23,39 L33,39 M359,29 L359,39 L349,39" fill="none" stroke="#FF0000" stroke-width="2"/><line class="fl" x1="10" y1="0" x2="10" y2="22" stroke="#FF0000" stroke-width="2"/><path d="M10,22 H22" stroke="#FF0000" stroke-width="2"/><rect class="blink" x="5" y="17" width="10" height="10" fill="#FF0000"/><rect x="2" y="21" width="16" height="2" fill="#FF0000"/><text x="191.0" y="26.7" font-size="13" class="dm" letter-spacing="1.2" text-anchor="middle">LEARNING · CREATING · EXPLORING</text></svg>

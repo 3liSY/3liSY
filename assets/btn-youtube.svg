@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" width="120" height="60" role="img"><title>YOUTUBE SRBGamerr</title><desc>Link button: YOUTUBE SRBGamerr</desc><defs><style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
-.bg{fill:#080B10}.pn{fill:#0C1118}.tx{fill:#E6EDF3}.dm{fill:#AEB7C0}
-@media (prefers-color-scheme:light){.bg{fill:#F3F5F7}.pn{fill:#FFFFFF}.tx{fill:#12171C}.dm{fill:#46515C}}
-.blink{animation:blink 2.4s ease-in-out infinite}@keyframes blink{50%{opacity:.35}}
-.pulse{animation:blink 2.4s ease-in-out infinite}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121 72" width="121" height="72" role="img"><title>YOUTUBE SRBGamerr</title><desc>Link button: YOUTUBE SRBGamerr</desc><defs><style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.sn{font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+.bg{fill:#080B10}.pn{fill:#0C1118}.tx{fill:#E6EDF3}.dm{fill:#AEB7C0}.scr{fill:#05080C}.mt{fill:#D8DEE4}.ink{fill:#05070A}.wh{fill:#FFFFFF}
+.bd{stroke:#FF0000;stroke-opacity:.34}.gr{stroke:#FF0000;stroke-opacity:.08}
+@media (prefers-color-scheme:light){.bg{fill:#F3F5F7}.pn{fill:#FFFFFF}.tx{fill:#12171C}.dm{fill:#46515C}.scr{fill:#F1F3F5}.mt{fill:#6B7580}.bd{stroke-opacity:.55}.gr{stroke-opacity:.05}text[fill="#FF0000"]{fill:#C80000}}
+.blink{animation:blink 2.4s ease-in-out infinite}@keyframes blink{50%{opacity:.3}}
 .fl{stroke-dasharray:4 10;animation:fl 1.2s linear infinite}@keyframes fl{to{stroke-dashoffset:-14}}
-@media (max-width:500px){.deco{display:none}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
-</style></defs><rect width="120" height="60" class="pn"/><rect x=".5" y=".5" width="119" height="59" fill="none" stroke="#FF0000" stroke-opacity=".4"/><path d="M1,11 L1,1 L11,1 M119,11 L119,1 L109,1 M1,49 L1,59 L11,59 M119,49 L119,59 L109,59" fill="none" stroke="#FF0000" stroke-width="2"/><text x="14" y="25" font-size="13" class="dm" letter-spacing="1">YOUTUBE</text><text x="14" y="48" font-size="16" font-weight="700" class="tx">SRBGamerr</text><text x="94" y="25" font-size="15" fill="#FF0000">&#8599;</text></svg>
+</style></defs><rect x="0" width="112" height="72" class="pn"/><rect x="0.5" y=".5" width="111" height="71" fill="none" class="bd"/><path d="M1,11 L1,1 L11,1 M111,11 L111,1 L101,1 M1,61 L1,71 L11,71 M111,61 L111,71 L101,71" fill="none" stroke="#FF0000" stroke-width="2"/><g transform="translate(10,10) scale(0.900)" fill="none" stroke="#FF0000" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"><rect x="1.5" y="4" width="17" height="12" rx="3"/><path d="M8,7 L13.5,10 L8,13 Z" fill="#FF0000"/></g><text x="102" y="26" font-size="17" fill="#FF0000" text-anchor="end">&#8599;</text><text x="10" y="46" font-size="12" font-weight="700" class="dm" letter-spacing=".5">YOUTUBE</text><text class="sn tx" x="10" y="64" font-size="16" font-weight="700">SRBGamerr</text></svg>
